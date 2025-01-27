@@ -47,8 +47,8 @@ Let's connect and collaborate!
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=grapjeje&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)  
 
-## 💡 Fun Fact
-I once automated a boring task and saved myself 10 hours a week!
+## 💡 Fun Fact  
+I taught myself to code as a hobby, and now I’m living the dream as a full-time developer. Proof that passion pays off! 🌟  
 
 ## 👀 Profile Views
 ![Visitor Count](https://komarev.com/ghpvc/?username=grapjeje&color=blue&style=flat)  
