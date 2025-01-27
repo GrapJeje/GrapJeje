@@ -23,7 +23,7 @@ I'm Jason, a passionate software developer in training who loves turning ideas i
 
 ## 🌱 Currently Learning  
 - ![Laravel Progress](https://img.shields.io/badge/Laravel-65%25-FF2D20?style=flat&logo=laravel&logoColor=white)  
-  Focused on advanced features like **Horizon** and **LiveWire**.  
+  Diving into **Horizon** to optimize background tasks and using **LiveWire** to create seamless, real-time user experiences.  
 
 - ![C# Progress](https://img.shields.io/badge/C%23-55%25-239120?style=flat&logo=c-sharp&logoColor=white)  
   Deepening my knowledge of **C#**.  
