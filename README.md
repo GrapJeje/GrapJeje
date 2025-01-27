@@ -22,8 +22,13 @@ I'm Jason, a passionate software developer in training who loves turning ideas i
 ![Nginx](https://img.shields.io/badge/Nginx-1%2B%20year-009639)  
 
 ## 🌱 Currently Learning  
-- **Mastering Laravel**
-- **Mastering C#**
+- ![Laravel Progress](https://img.shields.io/badge/Laravel-65%25-FF2D20?style=flat&logo=laravel&logoColor=white)  
+  Focused on advanced features like **Horizon** and **LiveWire**.  
+
+- ![C# Progress](https://img.shields.io/badge/C%23-55%25-239120?style=flat&logo=c-sharp&logoColor=white)  
+  Deepening my knowledge of **C#**.  
+
+💡 **Goal**: Build a **full-stack website** using Laravel and a **feature-rich application** in C# to showcase my skills and solve real-world problems.  
 
 ## 🌐 Portfolio & Socials  
 
