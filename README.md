@@ -22,7 +22,7 @@ I'm Jason, a passionate software developer in training who loves turning ideas i
 ![Nginx](https://img.shields.io/badge/Nginx-1%2B%20year-009639)  
 
 ## 🌱 Currently Learning  
-- ![Laravel Progress](https://img.shields.io/badge/Laravel-65%25-FF2D20?style=flat&logo=laravel&logoColor=white)  
+- ![Laravel Progress](https://img.shields.io/badge/Laravel-70%25-FF2D20?style=flat&logo=laravel&logoColor=white)  
   Diving into **Horizon** to optimize background tasks and using **LiveWire** to create seamless, real-time user experiences.  
 
 - ![C# Progress](https://img.shields.io/badge/C%23-55%25-239120?style=flat&logo=c-sharp&logoColor=white)  
