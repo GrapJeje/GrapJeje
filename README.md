@@ -11,9 +11,9 @@ I'm Jason, a passionate software developer in training who loves turning ideas i
 ### **Web Development**  
 ![HTML5](https://img.shields.io/badge/HTML5-2%2B%20years-E34F26)  
 ![CSS3](https://img.shields.io/badge/CSS3-2%2B%20years-1572B6)  
-![SCSS](https://img.shields.io/badge/SCSS-1%2B%20year-CC6699)  
+![SCSS](https://img.shields.io/badge/SCSS-1--%20year-CC6699)  
 ### **Frameworks & Libraries**  
-![Laravel](https://img.shields.io/badge/Laravel-1%2B%20year-FF2D20)  
+![Laravel](https://img.shields.io/badge/Laravel-1--%20year-FF2D20)  
 ### **Databases**  
 ![MySQL](https://img.shields.io/badge/MySQL-2%2B%20years-4479A1)  
 ### **Version Control**  
