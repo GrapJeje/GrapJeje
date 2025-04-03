@@ -2,24 +2,23 @@
 I'm Jason, a passionate software developer in training who loves turning ideas into code. When I'm not debugging, you'll find me exploring new technologies or building cool projects!
 
 ## 🛠️ Technologies & Tools (2025)  
-### **Languages**  
-![Java](https://img.shields.io/badge/Java-2%2B%20years-orange)  
-![PHP](https://img.shields.io/badge/PHP-1%2B%20year-777BB4)  
-![C#](https://img.shields.io/badge/C%23-1%2B%20year-239120)  
-![Python](https://img.shields.io/badge/Python-1%2B%20year-3776AB)  
-![JavaScript](https://img.shields.io/badge/JavaScript-2%2B%20years-F7DF1E)  
-### **Web Development**  
-![HTML5](https://img.shields.io/badge/HTML5-2%2B%20years-E34F26)  
-![CSS3](https://img.shields.io/badge/CSS3-2%2B%20years-1572B6)  
-![SCSS](https://img.shields.io/badge/SCSS-1--%20year-CC6699)  
-### **Frameworks & Libraries**  
-![Laravel](https://img.shields.io/badge/Laravel-1--%20year-FF2D20)  
-### **Databases**  
-![MySQL](https://img.shields.io/badge/MySQL-2%2B%20years-4479A1)  
-### **Version Control**  
-![Git](https://img.shields.io/badge/Git-2%2B%20years-F05032)  
-### **Servers & Deployment**  
-![Nginx](https://img.shields.io/badge/Nginx-1%2B%20year-009639)  
+### **Languages**
+![Java](https://img.shields.io/badge/Java-2%2B%20years-orange) ![PHP](https://img.shields.io/badge/PHP-1%2B%20year-777BB4) ![C#](https://img.shields.io/badge/C%23-1%2B%20year-239120) ![Python](https://img.shields.io/badge/Python-1%2B%20year-3776AB) ![JavaScript](https://img.shields.io/badge/JavaScript-2%2B%20years-F7DF1E)
+
+### **Web Development**
+![HTML5](https://img.shields.io/badge/HTML5-2%2B%20years-E34F26) ![CSS3](https://img.shields.io/badge/CSS3-2%2B%20years-1572B6) ![SCSS](https://img.shields.io/badge/SCSS-1--%20year-CC6699)
+
+### **Frameworks & Libraries**
+![Laravel](https://img.shields.io/badge/Laravel-1--%20year-FF2D20)
+
+### **Databases**
+![MySQL](https://img.shields.io/badge/MySQL-2%2B%20years-4479A1)
+
+### **Version Control**
+![Git](https://img.shields.io/badge/Git-2%2B%20years-F05032)
+
+### **Servers & Deployment**
+![Nginx](https://img.shields.io/badge/Nginx-1%2B%20year-009639)
 
 ## 🌐 Portfolio & Socials  
 
