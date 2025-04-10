@@ -3,7 +3,7 @@ I'm Jason, a passionate software developer in training who loves turning ideas i
 
 ## 🛠️ Technologies & Tools (2025)  
 ### **Languages**
-![Java](https://img.shields.io/badge/Java-2%2B%20years-orange) ![PHP](https://img.shields.io/badge/PHP-1%2B%20year-777BB4) ![C#](https://img.shields.io/badge/C%23-1%2B%20year-239120) ![Python](https://img.shields.io/badge/Python-1%2B%20year-3776AB) ![JavaScript](https://img.shields.io/badge/JavaScript-2%2B%20years-F7DF1E)
+![Java](https://img.shields.io/badge/Java-2%2B%20years-orange) ![PHP](https://img.shields.io/badge/PHP-1%2B%20year-777BB4) ![C#](https://img.shields.io/badge/C%23-1%2B%20year-239120) ![Python](https://img.shields.io/badge/Python-1%2B%20year-3776AB) ![JavaScript](https://img.shields.io/badge/JavaScript-2%2B%20years-F7DF1E) ![C++](https://img.shields.io/badge/C++-1--%20year-00599C)
 
 ### **Web Development**
 ![HTML5](https://img.shields.io/badge/HTML5-2%2B%20years-E34F26) ![CSS3](https://img.shields.io/badge/CSS3-2%2B%20years-1572B6) ![SCSS](https://img.shields.io/badge/SCSS-1--%20year-CC6699)
