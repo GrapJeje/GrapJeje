@@ -3,22 +3,29 @@ I'm Jason, a passionate software developer in training who loves turning ideas i
 
 ## 🛠️ Technologies & Tools (2025)  
 ### **Languages**
-![Java](https://img.shields.io/badge/Java-2%2B%20years-orange) ![PHP](https://img.shields.io/badge/PHP-1%2B%20year-777BB4) ![C#](https://img.shields.io/badge/C%23-1%2B%20year-239120) ![Python](https://img.shields.io/badge/Python-1%2B%20year-3776AB) ![JavaScript](https://img.shields.io/badge/JavaScript-2%2B%20years-F7DF1E) ![C++](https://img.shields.io/badge/C++-1--%20year-00599C)
+![Java](https://img.shields.io/badge/Java-2%2B%20years-orange?logo=openjdk) 
+![PHP](https://img.shields.io/badge/PHP-<1%20year-777BB4?logo=php) 
+![C#](https://img.shields.io/badge/C%23-<1%20year-239120?logo=c-sharp) 
+![Python](https://img.shields.io/badge/Python-<1%20year-3776AB?logo=python) 
+![JavaScript](https://img.shields.io/badge/JavaScript-2%2B%20years-F7DF1E?logo=javascript) 
+![C++](https://img.shields.io/badge/C%2B%2B-<1%20year-00599C?logo=c%2B%2B)
 
 ### **Web Development**
-![HTML5](https://img.shields.io/badge/HTML5-2%2B%20years-E34F26) ![CSS3](https://img.shields.io/badge/CSS3-2%2B%20years-1572B6) ![SCSS](https://img.shields.io/badge/SCSS-1--%20year-CC6699)
+![HTML5](https://img.shields.io/badge/HTML5-2%2B%20years-E34F26?logo=html5) 
+![CSS3](https://img.shields.io/badge/CSS3-2%2B%20years-1572B6?logo=css3) 
+![SCSS](https://img.shields.io/badge/SCSS-<1%20year-CC6699?logo=sass)
 
 ### **Frameworks & Libraries**
-![Laravel](https://img.shields.io/badge/Laravel-1--%20year-FF2D20)
+![Laravel](https://img.shields.io/badge/Laravel-<1%20year-FF2D20?logo=laravel)
 
 ### **Databases**
-![MySQL](https://img.shields.io/badge/MySQL-2%2B%20years-4479A1)
+![MySQL](https://img.shields.io/badge/MySQL-2%2B%20years-4479A1?logo=mysql)
 
 ### **Version Control**
-![Git](https://img.shields.io/badge/Git-2%2B%20years-F05032)
+![Git](https://img.shields.io/badge/Git-2%2B%20years-F05032?logo=git)
 
 ### **Servers & Deployment**
-![Nginx](https://img.shields.io/badge/Nginx-1%2B%20year-009639)
+![Nginx](https://img.shields.io/badge/Nginx-<1%20year-009639?logo=nginx)
 
 ## 🌐 Portfolio & Socials  
 
