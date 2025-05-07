@@ -37,8 +37,10 @@ Let's connect and collaborate!
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=grapjeje&show_icons=true&theme=nord)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=grapjeje&layout=compact&theme=nord)  
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=grapjeje&show_icons=true&theme=nord&hide_border=true&count_private=true" alt="My GitHub Stats" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grapjeje&layout=compact&theme=nord&hide_border=true" alt="Top Languages" />
+</div>
 
 ## 🏆 GitHub Trophies  
 
