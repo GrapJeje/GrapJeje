@@ -27,7 +27,7 @@ I'm Jason, a passionate software developer in training who loves turning ideas i
 ![Git](https://img.shields.io/badge/Git-2%2B%20years-F05032?logo=git)
 
 ### **Servers & Deployment**
-![Nginx](https://img.shields.io/badge/Nginx-<1%20year-009639?logo=nginx)
+![Nginx](https://img.shields.io/badge/Nginx-1+%20year-009639?logo=nginx)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-<1%20year-0A0A0A?logo=githubactions)
 
 ## 🌐 Portfolio & Socials  
