@@ -17,6 +17,8 @@ I'm Jason, a passionate software developer in training who loves turning ideas i
 
 ### **Frameworks & Libraries**
 ![Laravel](https://img.shields.io/badge/Laravel-<1%20year-FF2D20?logo=laravel)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-<1%20year-6DB33F?logo=springboot)
+![JavaFX](https://img.shields.io/badge/JavaFX-<1%20year-007396?logo=openjdk)
 
 ### **Databases**
 ![MySQL](https://img.shields.io/badge/MySQL-2%2B%20years-4479A1?logo=mysql)
