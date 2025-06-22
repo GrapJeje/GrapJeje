@@ -3,32 +3,34 @@ I'm Jason, a passionate software developer in training who loves turning ideas i
 
 ## 🛠️ Technologies & Tools (2025)  
 ### **Languages**
-![Java](https://img.shields.io/badge/Java-2%2B%20years-orange?logo=openjdk) 
-![PHP](https://img.shields.io/badge/PHP-1+%20year-777BB4?logo=php) 
-![C++](https://img.shields.io/badge/C%2B%2B-<1%20year-00599C?logo=c%2B%2B)
-![C#](https://img.shields.io/badge/C%23-1+%20year-239120?logo=dotnet)
-![Python](https://img.shields.io/badge/Python-1+%20year-3776AB?logo=python) 
-![JavaScript](https://img.shields.io/badge/JavaScript-2%2B%20years-F7DF1E?logo=javascript) 
+![Java](https://img.shields.io/badge/Java-2%2B%20years-orange?logo=openjdk)  
+![PHP](https://img.shields.io/badge/PHP-1+%20year-777BB4?logo=php)  
+![C++](https://img.shields.io/badge/C%2B%2B-<1%20year-00599C?logo=c%2B%2B)  
+![C#](https://img.shields.io/badge/C%23-1+%20year-239120?logo=dotnet)  
+![JavaScript](https://img.shields.io/badge/JavaScript-2%2B%20years-F7DF1E?logo=javascript)  
+![TypeScript](https://img.shields.io/badge/TypeScript-<1%20year-3178C6?logo=typescript)  
 
 ### **Web Development**
-![HTML5](https://img.shields.io/badge/HTML5-2%2B%20years-E34F26?logo=html5) 
-![CSS3](https://img.shields.io/badge/CSS3-2%2B%20years-1572B6?logo=css3) 
-![SCSS](https://img.shields.io/badge/SCSS-<1%20year-CC6699?logo=sass)
+![HTML5](https://img.shields.io/badge/HTML5-2%2B%20years-E34F26?logo=html5)  
+![CSS3](https://img.shields.io/badge/CSS3-2%2B%20years-1572B6?logo=css3)  
+![SCSS](https://img.shields.io/badge/SCSS-<1%20year-CC6699?logo=sass)  
 
 ### **Frameworks & Libraries**
-![Laravel](https://img.shields.io/badge/Laravel-<1%20year-FF2D20?logo=laravel)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-<1%20year-6DB33F?logo=springboot)
-![JavaFX](https://img.shields.io/badge/JavaFX-<1%20year-007396?logo=openjdk)
+![Laravel](https://img.shields.io/badge/Laravel-<1%20year-FF2D20?logo=laravel)  
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-<1%20year-6DB33F?logo=springboot)  
+![JavaFX](https://img.shields.io/badge/JavaFX-<1%20year-007396?logo=openjdk)  
+![React](https://img.shields.io/badge/React-<1%20year-61DAFB?logo=react)  
+![Vue](https://img.shields.io/badge/Vue-1+%20year-4FC08D?logo=vue.js)  
 
 ### **Databases**
-![MySQL](https://img.shields.io/badge/MySQL-2%2B%20years-4479A1?logo=mysql)
+![MySQL](https://img.shields.io/badge/MySQL-2%2B%20years-4479A1?logo=mysql)  
 
 ### **Version Control**
-![Git](https://img.shields.io/badge/Git-2%2B%20years-F05032?logo=git)
+![Git](https://img.shields.io/badge/Git-2%2B%20years-F05032?logo=git)  
 
 ### **Servers & Deployment**
-![Nginx](https://img.shields.io/badge/Nginx-1+%20year-009639?logo=nginx)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-<1%20year-0A0A0A?logo=githubactions)
+![Nginx](https://img.shields.io/badge/Nginx-1+%20year-009639?logo=nginx)  
+![CI/CD](https://img.shields.io/badge/CI%2FCD-<1%20year-0A0A0A?logo=githubactions)  
 
 ## 🌐 Portfolio & Socials  
 
