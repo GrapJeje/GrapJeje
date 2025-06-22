@@ -12,7 +12,7 @@ I'm Jason, a passionate software developer in training who loves turning ideas i
 
 ### **Web Development**
 ![HTML5](https://img.shields.io/badge/HTML5-2%2B%20years-E34F26?logo=html5)  
-![CSS3](https://img.shields.io/badge/CSS3-2%2B%20years-1572B6?logo=css3)  
+![CSS3](https://img.shields.io/badge/CSS3-2%2B%20years-1572B6?logo=css)  
 ![SCSS](https://img.shields.io/badge/SCSS-<1%20year-CC6699?logo=sass)  
 
 ### **Frameworks & Libraries**
