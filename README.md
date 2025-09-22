@@ -4,6 +4,8 @@ I'm Jason, a passionate software developer in training who loves turning ideas i
 ## 🌐 Portfolio & Socials  
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-grapjeje.nl-%2300A98F?style=for-the-badge&logo=google-chrome&logoColor=white)](https://grapjeje.nl/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-jasonvanloon.nl-%238A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jasonvanloon.nl/)
+
 Check out my projects and work experience!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jason%20van%20Loon-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jason-van-loon/)  
