@@ -25,7 +25,7 @@ Let's connect and collaborate!
 
 ## 🏆 GitHub Trophies  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=grapjeje&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)  
+<img height="165em" src"https://github-trophies.vercel.app/?username=grapjeje&theme=nord&column=7" />
 
 ## 👀 Profile Views
 ![Visitor Count](https://komarev.com/ghpvc/?username=grapjeje&color=blue&style=flat)  
