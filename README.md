@@ -14,8 +14,8 @@ Let's connect and collaborate!
 ## 📊 GitHub Stats  
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=grapjeje&show_icons=true&theme=nord&hide_border=true" alt="My GitHub Stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grapjeje&layout=compact&theme=nord&hide_border=true" alt="Top Languages" />
+  <img height="165em" src="https://github-readme-stats-extended.vercel.app/api?username=grapjeje&show_icons=true&theme=nord&hide_border=true" alt="My GitHub Stats" />
+  <img height="165em" src="https://github-readme-stats-extended.vercel.app/api/top-langs/?username=grapjeje&layout=compact&theme=nord&hide_border=true" alt="Top Languages" />
 </div>
 
 ## 🔥 Github Streaks
