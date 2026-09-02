@@ -28,7 +28,7 @@ Let's connect and collaborate!
 <div align="center">
   <img height="165em" src"https://github-trophies.vercel.app/?username=grapjeje&theme=nord&column=7" />
 </div>
-[![GitHub Trophies](https://github-trophies.vercel.app/?username=grapjeje&theme=nord&column=7)](https://github.com/grapjeje)
+![GitHub Trophies](https://github-trophies.vercel.app/?username=grapjeje&theme=nord&column=7)
 
 ## 👀 Profile Views
 ![Visitor Count](https://komarev.com/ghpvc/?username=grapjeje&color=blue&style=flat)  
