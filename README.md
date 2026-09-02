@@ -22,13 +22,13 @@ Let's connect and collaborate!
 <div align="center">
   <img height="200em" src="https://streak-stats.demolab.com?user=GrapJeje&theme=nord&hide_border=true" alt="My GitHub Streaks" />
 </div>
-![](https://streak-stats.demolab.com?user=GrapJeje&theme=nord&hide_border=true)
 
 ## 🏆 GitHub Trophies  
 
 <div align="center">
   <img height="165em" src"https://github-trophies.vercel.app/?username=grapjeje&theme=nord&column=7" />
 </div>
+![](https://github-trophies.vercel.app/?username=grapjeje&theme=nord&column=7)
 
 ## 👀 Profile Views
 ![Visitor Count](https://komarev.com/ghpvc/?username=grapjeje&color=blue&style=flat)  
