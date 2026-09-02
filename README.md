@@ -22,6 +22,7 @@ Let's connect and collaborate!
 <div align="center">
   <img height="200em" src="https://streak-stats.demolab.com?user=GrapJeje&theme=nord&hide_border=true" alt="My GitHub Streaks" />
 </div>
+![](https://streak-stats.demolab.com?user=GrapJeje&theme=nord&hide_border=true)
 
 ## 🏆 GitHub Trophies  
 
